@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 266"
+  short_description: "符号标识：上半保留原照，下半把主体提炼成小尺度的极简文化标识"
+  default_prompt: "Use $xxd-panel-266 to transform my photograph following the complete canonical source brief."
